@@ -1,0 +1,28 @@
+
+
+{"intents": [
+    {
+        "tag": "introductions",
+        "patterns": [
+            "who are you",
+            "introduce yourself",
+            "tell me about yourself"
+        ],
+        "responses": [
+            "Hi, im a side project that died"
+        ]
+    }
+    ,
+    {
+        "tag": "task",
+        "patterns": [
+            "who are you",
+            "what do you do",
+            "introduce yourself",
+            "tell me about yourself"
+        ],
+        "responses": [
+            "I was suppose to do something by i died"
+        ]
+    }
+]}
